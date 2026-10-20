@@ -1,7 +1,7 @@
 # CMPE-255 Colab Explanation Videos
 
 **Course:** FA26: CMPE-255 Sec 49 - Data Mining (SJSU)
-**Author:** 傅炜浩
+**Author:** Weihao Fu
 
 Recorded video explanations for each colab, walking through the code block by block —
 explaining what each code block does and its output, with focus on the underlying theory.
